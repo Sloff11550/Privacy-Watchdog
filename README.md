@@ -4,6 +4,8 @@
 >
 > Accessing or copying your private files without permission—especially when unrelated to the repair—is a violation of your privacy and may be illegal. In many regions, unauthorized access to personal data is grounds for civil action or criminal charges.
 >
+> **Note:** If you're submitting a device for **data recovery**, you may be implicitly authorizing access to certain files during that process. However, this does *not* grant permission for the technician to **copy**, **store**, or **distribute** your data for any other purpose. Be cautious and work only with shops you trust—preferably those with signed policies or public reputations for ethical behavior.
+>
 > **Privacy Watchdog** empowers you with tamper-proof logs and silent monitoring, so you’ll know exactly what happened while your system was in someone else’s hands. It’s not just a tool—it’s a witness.
 
 
@@ -226,5 +228,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
 ```
