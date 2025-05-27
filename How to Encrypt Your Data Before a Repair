@@ -117,6 +117,12 @@ For next-level protection, you can use a **hardware security key** (like a YubiK
 
 🧠 **Tip:** Rename your keyfile to something boring like `driver_cache.sys` or `nvdiag.cfg` for stealth.
 
+### ❗ A Note on Titan Security Keys
+
+While Google's Titan Security Keys are technically strong and use modern FIDO2/U2F standards, some users prefer alternatives like YubiKey or SoloKey due to privacy concerns. Titan Keys are Google-branded and produced by third-party manufacturers, and their firmware is not fully transparent. If your goal is to protect your data from *everyone*—including big tech—then choosing a vendor like Yubico offers a higher level of independence and trust.
+
+---
+
 ### ✅ Why It’s Powerful:
 
 * 🔒 The encryption key is **never stored on the computer**
