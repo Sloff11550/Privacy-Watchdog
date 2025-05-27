@@ -1,5 +1,12 @@
 ### 🧩 Project Overview
 
+> ⚖️ **Know Your Rights:**
+>
+> Accessing or copying your private files without permission—especially when unrelated to the repair—is a violation of your privacy and may be illegal. In many regions, unauthorized access to personal data is grounds for civil action or criminal charges.
+>
+> **Privacy Watchdog** empowers you with tamper-proof logs and silent monitoring, so you’ll know exactly what happened while your system was in someone else’s hands. It’s not just a tool—it’s a witness.
+
+
 > 💬 **Why this exists:**
 >
 > In a perfect world, you could trust every repair technician with your data. But in reality, not all techs are honest—and not all laptops allow you to remove your hard drive. Many modern systems have **soldered internal storage**, meaning you can't just pop out the drive before handing your device over.
